@@ -1,0 +1,8 @@
+v1.0.0 FINAL - Professional
+- Added Restore Point + Backup + Log
+- Added Smart Learning baseline
+- Added Normal / Abnormal adaptive limits
+- Added Zone ID
+- Added Night Guard, Elderly Care, Fall, SOS, Event Log
+- English Only - Fixed Arabic reversed issue
+- Separate project, no conflict

@@ -1,0 +1,2 @@
+CFLAGS=-I/data/data/com.termux/files/usr/include
+LDFLAGS=-L/data/data/com.termux/files/usr/lib
